@@ -67,7 +67,15 @@
 - **GStatSim (University of Florida Glacier Group)**  
   - Statistical interpolations of sparse topography observations (point → grid).  
   - Repo: https://github.com/GatorGlaciology/GStatSim
-
+- **OpenDroneMap Non-Profit**
+  - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images
+  - Website: https://opendronemap.org/
+  - Repo: https://github.com/OpenDroneMap/ODM
+- **pDEMtools (Open source software similar to coincident)**
+  - Conveniently search, download, and process ArcticDEM and REMA products
+  - Repo: https://github.com/trchudley/pdemtools
+  - Docs: https://pdemtools.readthedocs.io/en/v1.1.0/
+  
 ---
 ## What Questions Do We Have
 
